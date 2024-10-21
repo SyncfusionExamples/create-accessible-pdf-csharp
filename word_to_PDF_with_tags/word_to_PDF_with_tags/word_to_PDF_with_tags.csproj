@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.DocIORenderer.Net.Core" Version="*" />
+    <PackageReference Include="Syncfusion.DocIORenderer.Net.Core" Version="20.3.0.59" />
     <PackageReference Include="Syncfusion.Pdf.Net.Core" Version="*" />
   </ItemGroup>
 
